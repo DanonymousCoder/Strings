@@ -10,4 +10,5 @@ const big = 'I\'m a boy';
 console.log(big);
 
 const name = 'Sakiinah';
-const greeting
+const greeting = `Hello, ${name}`;
+alert(greeting);
