@@ -16,7 +16,7 @@ alert(greeting); // Hello, Chris
 const one = "Hello";
 const two = "how are you";
 const joined = `${one}, ${two}`;
-alert(joined)// Hello, how are you
+alert(joined);// Hello, how are you
 
 const button = document.getElementsByClassName("btn");
 
