@@ -13,4 +13,4 @@ const name = 'Sakiinah';
 const greeting = `Hello, ${name}`;
 alert(greeting); // Hello, Chris
 
-const one
+const one = "Hello";
