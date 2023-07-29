@@ -35,3 +35,5 @@ console.log(g + ', ' + n);
 const g2 = "Hello";
 const n2 = "Sakiinah";
 console.log(`${g2}, ${n2}`);
+
+// number vs strings
