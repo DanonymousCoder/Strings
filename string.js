@@ -30,3 +30,7 @@ button.addEventListner("click", greet);
 const g = "Hello";
 const n = "Sakiinah";
 console.log(g + ', ' + n);
+
+//Using template literals
+const g2 = "Hello";
+const n2 = "Sakiinah";
