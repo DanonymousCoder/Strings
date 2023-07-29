@@ -21,7 +21,7 @@ alert(joined);// Hello, how are you
 const button = document.querySelector("button");
 
 function greet() {
-    const name = prompt('What is your name?');
+    const name = prompt("What is your name?");
     alert(`Hello ${name}, so nice to see you`);
 }
 
