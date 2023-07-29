@@ -25,4 +25,4 @@ function greet() {
     alert(`Hello ${name}, so nice to see you`);
 }
 
-button.addEventListner("click", greet)
+button.addEventListner("click", greet);
