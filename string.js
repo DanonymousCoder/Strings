@@ -38,3 +38,4 @@ console.log(`${g2}, ${n2}`);
 
 // number vs strings
 const str = "page";
+const num = ""
