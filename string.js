@@ -26,3 +26,6 @@ function greet() {
 }
 
 button.addEventListner("click", greet);
+
+// Using  '+'
+const g = "Hello";
