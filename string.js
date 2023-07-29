@@ -30,4 +30,4 @@ button.addEventListner("click", greet);
 // Using  '+'
 const g = "Hello";
 const n = "Sakiinah";
-alert(g + ', ' + n);
+console.log(g + ', ' + n);
