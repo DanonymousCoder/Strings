@@ -7,4 +7,4 @@ console.log(sglDbl);
 console.log(dblSgl);
 
 const big = 'I\'m a boy';
-console.log(big)
+console.log(big);
