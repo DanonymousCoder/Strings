@@ -6,4 +6,4 @@ const dblSgl = "I'm feeling blue.";
 console.log(sglDbl);
 console.log(dblSgl);
 
-const big = 'I\'m a boy'
+const big = 'I\'m a boy';
