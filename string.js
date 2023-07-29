@@ -20,4 +20,6 @@ alert(joined)// Hello, how are you
 
 const button = document.getElementsByClassName('btn')
 
-function greet() {}
+function greet() {
+    
+}
