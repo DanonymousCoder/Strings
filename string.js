@@ -34,4 +34,4 @@ console.log(g + ', ' + n);
 //Using template literals
 const g2 = "Hello";
 const n2 = "Sakiinah";
-console.log(`${g2}, ${n2}`)
+console.log(`${g2}, ${n2}`);
