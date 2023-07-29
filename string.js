@@ -15,4 +15,4 @@ alert(greeting); // Hello, Chris
 
 const one = "Hello";
 const two = "how are you";
-const joined = `${one}, ${two}`
+const joined = `${one}, ${two}`;
