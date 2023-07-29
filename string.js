@@ -21,6 +21,6 @@ alert(joined)// Hello, how are you
 const button = document.getElementsByClassName('btn')
 
 function greet() {
-    const name = prompt('What is your name?')
-    alert(`Hello ${name}, so nice to see you`)
+    const name = prompt('What is your name?');
+    alert(`Hello ${name}, so nice to see you`);
 }
