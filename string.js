@@ -8,3 +8,6 @@ console.log(dblSgl);
 
 const big = 'I\'m a boy';
 console.log(big);
+
+const name = 'Sakiinah';
+const greeting
