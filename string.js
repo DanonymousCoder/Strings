@@ -11,4 +11,5 @@ console.log(big);
 
 const name = 'Sakiinah';
 const greeting = `Hello, ${name}`;
-alert(greeting);
+alert(greeting); // Hello, Chris
+
