@@ -18,7 +18,7 @@ const two = "how are you";
 const joined = `${one}, ${two}`;
 alert(joined);// Hello, how are you
 
-const button = document.querySelector("btn");
+const button = document.querySelector("button");
 
 function greet() {
     const name = prompt('What is your name?');
