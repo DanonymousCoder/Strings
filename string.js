@@ -18,4 +18,4 @@ const two = "how are you";
 const joined = `${one}, ${two}`;
 alert(joined)// Hello, how are you
 
-const button =
+const button = document.getElementsByClassName('btn')
