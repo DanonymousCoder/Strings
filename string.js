@@ -99,4 +99,7 @@ let padded3 = text18.padEnd(4,"0");
 let text19 = "HELLO WORLD";
 let char = text19.charAt(0);
 
+let text = "HELLO WORLD";
+let char = text.charCodeAt(0);
+
 
