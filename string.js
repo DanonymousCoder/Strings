@@ -64,5 +64,5 @@ let part1 = text2.slice(7);
 window.alert(part1);
 
 let text3 = "Please visit Microsoft and Microsoft!";
-let newText = text.replace("Microsoft", "W3Schools");
+let newText = text3.replace("Microsoft", "W3Schools");
 
