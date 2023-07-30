@@ -66,3 +66,5 @@ window.alert(part1);
 let text3 = "Please visit Microsoft and Microsoft!";
 let newText = text3.replace("Microsoft", "W3Schools");
 
+let text1 = "Hello World!";       // String
+let text2 = text1.toLowerCase();  // text2 is text1 converted to lower
