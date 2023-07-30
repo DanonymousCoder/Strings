@@ -85,5 +85,5 @@ let text14 = text13.trimEnd();
 let text15 = "5";
 let padded = text15.padStart(4,"0");
 let text16 = "5";
-let padded1 = text.padStart(4,"0");
+let padded1 = text16.padStart(4,"0");
 
