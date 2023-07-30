@@ -78,5 +78,5 @@ let text9 = "      Hello World!      ";
 let text10 = text9.trim();
 let text11 = "     Hello World!     ";
 let text12 = text12.trimStart();
-let text1 = "     Hello World!     ";
+let text13 = "     Hello World!     ";
 let text2 = text1.trimEnd();
