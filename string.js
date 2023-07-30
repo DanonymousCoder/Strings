@@ -70,5 +70,5 @@ let text4 = "Hello World!";       // String
 let text5 = text5.toLowerCase();  // text2 is text1 converted to lower
 
 let text6 = "Hello";
-let text2 = "World";
+let text7 = "World";
 let text3 = text1.concat(" ", text2);
