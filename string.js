@@ -82,3 +82,5 @@ let text13 = "     Hello World!     ";
 let text14 = text13.trimEnd();
 
 //pad - for padding
+let text = "5";
+let padded = text.padStart(4,"0");
