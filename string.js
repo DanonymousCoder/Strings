@@ -79,4 +79,4 @@ let text10 = text9.trim();
 let text11 = "     Hello World!     ";
 let text12 = text12.trimStart();
 let text13 = "     Hello World!     ";
-let text14 = text1.trimEnd();
+let text14 = text13.trimEnd();
