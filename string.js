@@ -97,6 +97,6 @@ let padded3 = text18.padEnd(4,"0");
 
 // for extracting strings charAt charCodeAt property access[]
 let text19 = "HELLO WORLD";
-let char = text.charAt(0);
+let char = text19.charAt(0);
 
 
