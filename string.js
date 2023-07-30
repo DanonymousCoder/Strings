@@ -59,6 +59,6 @@ let length = text.length;
 //Slice
 let text1 = "Apple, Banana, Kiwi";
 let part = text1.slice(7, 13);
-let text = "Apple, Banana, Kiwi";
-let part = text.slice(7);
-alert(part);
+let text2 = "Apple, Banana, Kiwi";
+let part1 = text.slice(7);
+alert(part1);
