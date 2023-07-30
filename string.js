@@ -50,3 +50,4 @@ const output = `I like the song ${song}. I gave it a score of ${
 console.log(output); // "I like the song Fight the Youth. I gave it a score of 90%."
 
 
+// String method
