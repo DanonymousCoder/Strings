@@ -95,4 +95,6 @@ let numb1 = 5;
 let text18 = numb1.toString();
 let padded3 = text18.padEnd(4,"0");
 
+// for extracting strings charAt charCodeAt property access[]
+
 
