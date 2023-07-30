@@ -77,4 +77,4 @@ let text8 = text6.concat(" ", text7);
 let text9 = "      Hello World!      ";
 let text10 = text9.trim();
 let text11 = "     Hello World!     ";
-let text2 = text1.trimStart();
+let text12 = text1.trimStart();
