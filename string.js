@@ -88,7 +88,7 @@ let text16 = "5";
 let padded1 = text16.padStart(4,"0");
 
 let numb = 5;
-let text = numb.toString();
+let text17 = numb.toString();
 let padded = text.padStart(4,"0");
 
 
