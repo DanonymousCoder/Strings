@@ -80,3 +80,5 @@ let text11 = "     Hello World!     ";
 let text12 = text12.trimStart();
 let text13 = "     Hello World!     ";
 let text14 = text13.trimEnd();
+
+//pad - for padding
