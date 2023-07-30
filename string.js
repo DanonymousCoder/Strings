@@ -61,4 +61,4 @@ let text1 = "Apple, Banana, Kiwi";
 let part = text1.slice(7, 13);
 let text2 = "Apple, Banana, Kiwi";
 let part1 = text2.slice(7);
-alert(part1);
+window.alert(part1);
