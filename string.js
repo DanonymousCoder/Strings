@@ -91,4 +91,8 @@ let numb = 5;
 let text17 = numb.toString();
 let padded2 = text17.padStart(4,"0");
 
+let numb = 5;
+let text = numb.toString();
+let padded = text.padEnd(4,"0");
+
 
