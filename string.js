@@ -52,4 +52,4 @@ console.log(output); // "I like the song Fight the Youth. I gave it a score of 9
 
 // String method
 //Length - returns length
-const length 
+const text = "abcdefghijk"
