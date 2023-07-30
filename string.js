@@ -100,6 +100,6 @@ let text19 = "HELLO WORLD";
 let char = text19.charAt(0);
 
 let text20 = "HELLO WORLD";
-let char1 = text.charCodeAt(0);
+let char1 = text20.charCodeAt(0);
 
 
