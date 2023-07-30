@@ -92,7 +92,7 @@ let text17 = numb.toString();
 let padded2 = text17.padStart(4,"0");
 
 let numb1 = 5;
-let text18 = numb.toString();
+let text18 = numb1.toString();
 let padded3 = text.padEnd(4,"0");
 
 
