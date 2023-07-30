@@ -102,4 +102,7 @@ let char = text19.charAt(0);
 let text20 = "HELLO WORLD";
 let char1 = text20.charCodeAt(0);
 
+et text = "HELLO WORLD";
+let char = text[0];
+
 
