@@ -75,4 +75,4 @@ let text8 = text6.concat(" ", text7);
 
 //trim() - removes whitespaces
 let text9 = "      Hello World!      ";
-let text10 = text1.trim();
+let text10 = text9.trim();
