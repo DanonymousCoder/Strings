@@ -96,7 +96,7 @@ let text18 = numb1.toString();
 let padded3 = text18.padEnd(4,"0");
 
 // for extracting strings charAt charCodeAt property access[]
-let text = "HELLO WORLD";
+let text19 = "HELLO WORLD";
 let char = text.charAt(0);
 
 
