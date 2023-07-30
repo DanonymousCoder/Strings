@@ -69,6 +69,6 @@ let newText = text3.replace("Microsoft", "W3Schools");
 let text4 = "Hello World!";       // String
 let text5 = text5.toLowerCase();  // text2 is text1 converted to lower
 
-let text1 = "Hello";
+let text6 = "Hello";
 let text2 = "World";
 let text3 = text1.concat(" ", text2);
