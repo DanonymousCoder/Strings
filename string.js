@@ -56,4 +56,6 @@ console.log(output); // "I like the song Fight the Youth. I gave it a score of 9
 const text = "abcdefghijk";
 let length = text.length;
 
-
+//Slice
+let text = "Apple, Banana, Kiwi";
+let part = text.slice(7, 13);
