@@ -72,3 +72,5 @@ let text5 = text5.toLowerCase();  // text2 is text1 converted to lower
 let text6 = "Hello";
 let text7 = "World";
 let text8 = text6.concat(" ", text7);
+
+//trim() - removes whitespaces
