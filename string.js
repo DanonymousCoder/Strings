@@ -106,4 +106,4 @@ let text21 = "HELLO WORLD";
 let char2 = text21[0];
 
 // split()
-
+let txt = Ridwan, Sakiinah
