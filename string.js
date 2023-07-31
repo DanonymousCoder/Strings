@@ -108,4 +108,4 @@ let char2 = text21[0];
 // split()
 let txt = Ridwanullah, Sakiinah, Abdsalam;
 let result = txt.split(",");
-document.getElementById('demo').innerHTML = split[1]
+document.getElementById('demo').innerHTML = result[1]
