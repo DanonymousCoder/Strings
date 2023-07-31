@@ -107,4 +107,4 @@ let char2 = text21[0];
 
 // split()
 let txt = Ridwanullah, Sakiinah, Abdsalam;
-let split = txt.split("");
+let split = txt.split(",");
