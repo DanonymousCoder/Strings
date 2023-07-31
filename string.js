@@ -105,4 +105,5 @@ let char1 = text20.charCodeAt(0);
 let text21 = "HELLO WORLD";
 let char2 = text21[0];
 
+// split()
 
